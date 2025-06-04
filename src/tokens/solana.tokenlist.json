@@ -1,9 +1,17 @@
 {
-  "chainId": 101,
-  "address": "PPVdAfM1SczFKgqUjvkHEjmXAsdN5g4QcmVC8YXofNF",
-  "symbol": "EFY",
-  "name": "EfyCoin",
-  "decimals": 6,
-  "logoURI": "https://raw.githubusercontent.com/YourGitHubUsername/token-list/main/assets/mainnet/PPVdAfM1SczFKgqUjvkHEjmXAsdN5g4QcmVC8YXofNF/logo.png",
-  "tags": ["utility-token"]
+  "name": "ComicsChange Token List",
+  "logoURI": "https://raw.githubusercontent.com/ТВОЙ_GITHUB_USERNAME/token-list/main/logo.png",
+  "tags": {},
+  "timestamp": "2025-06-04T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "PPVdAfM1SczFKgqUjvkHEjmXAsdN5g4QcmVC8YXofNF",
+      "symbol": "EFY",
+      "name": "EfyCoin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/Vagharsh924/token-list/main/assets/mainnet/PPVdAfM1SczFKgqUjvkHEjmXAsdN5g4QcmVC8YXofNF/logo.png",
+      "tags": []
+    }
+  ]
 }
